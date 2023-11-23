@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lucassantillan/Desktop/claseProgramacion1/output/clase8cortedecontrol'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _cantidadVentas, symObjAddr: 0x0, symBinAddr: 0x100003AE4, symSize: 0x84 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _cantidadVentas, symObjAddr: 0x0, symBinAddr: 0x100003AE4, symSize: 0x84 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: _stockMayor, symObjAddr: 0x84, symBinAddr: 0x100003B68, symSize: 0x58 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: _mesCantidad, symObjAddr: 0xDC, symBinAddr: 0x100003BC0, symSize: 0x84 }
+  - { offsetInCU: 0x13D, offset: 0x13D, size: 0x8, addend: 0x0, symName: _corteDeControl, symObjAddr: 0x160, symBinAddr: 0x100003C44, symSize: 0x238 }
+  - { offsetInCU: 0x231, offset: 0x231, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x398, symBinAddr: 0x100003E7C, symSize: 0x34 }
+...

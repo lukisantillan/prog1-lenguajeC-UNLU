@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lucassantillan/Desktop/claseProgramacion1/output/clase7'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _cargarVector, symObjAddr: 0x0, symBinAddr: 0x100003A38, symSize: 0xC0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _cargarVector, symObjAddr: 0x0, symBinAddr: 0x100003A38, symSize: 0xC0 }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _mostrarVector, symObjAddr: 0xC0, symBinAddr: 0x100003AF8, symSize: 0x78 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: _buscarBin, symObjAddr: 0x138, symBinAddr: 0x100003B70, symSize: 0x1D8 }
+  - { offsetInCU: 0x183, offset: 0x183, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x310, symBinAddr: 0x100003D48, symSize: 0x10C }
+...

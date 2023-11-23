@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lucassantillan/Desktop/claseProgramacion1/tps/output/tp7'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _crearArchivo, symObjAddr: 0x0, symBinAddr: 0x100003B08, symSize: 0x44 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _crearArchivo, symObjAddr: 0x0, symBinAddr: 0x100003B08, symSize: 0x44 }
+  - { offsetInCU: 0x8D, offset: 0x8D, size: 0x8, addend: 0x0, symName: _cargarManualClima, symObjAddr: 0x44, symBinAddr: 0x100003B4C, symSize: 0x160 }
+  - { offsetInCU: 0x113, offset: 0x113, size: 0x8, addend: 0x0, symName: _procesamiento, symObjAddr: 0x1A4, symBinAddr: 0x100003CAC, symSize: 0x134 }
+  - { offsetInCU: 0x1A7, offset: 0x1A7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2D8, symBinAddr: 0x100003DE0, symSize: 0xAC }
+...

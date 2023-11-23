@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/lucassantillan/Desktop/claseProgramacion1/output/tp'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _cantidadVentas, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x7C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _cantidadVentas, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x7C }
+  - { offsetInCU: 0xA1, offset: 0xA1, size: 0x8, addend: 0x0, symName: _corteDeControl, symObjAddr: 0x7C, symBinAddr: 0x100003C90, symSize: 0x1C8 }
+  - { offsetInCU: 0x15A, offset: 0x15A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x244, symBinAddr: 0x100003E58, symSize: 0xC8 }
+...
